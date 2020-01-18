@@ -1,326 +1,87 @@
-<script type="text/javascript" src="//s3-us-west-2.amazonaws.com/mfesecure-public/host/5starlimobusrentals.com/client.js">
-</script><style id="mfesecure-ts-style" type="text/css">
-.mcafeesecure-body-noscroll{ overflow:hidden !important;}
-</style>
-<div id="page" class="layout-fullwidth"><a href="#page/index.html" class="scroll-top-button"></a>
-<div id="top-area" class="top-area top-area-style-2" style="">
-<div class="container">
-<div class="top-area-items clearfix">
-<div class="top-area-socials">
-<div class="socials">
-<div class="socials-item twitter"><a href="https://twitter.com/5starlimo4u" target="_blank" title="twitter">twitter</a></div>
-<div class="socials-item facebook"><a href="https://www.facebook.com/5tarlimobusrentals/" target="_blank" title="facebook">facebook</a></div>
-<div class="socials-item googleplus"><a href="https://plus.google.com/+Limosalivecom" target="_blank" title="googleplus">googleplus</a></div>
-<div class="socials-item stumbleupon"><a href="https://www.stumbleupon.com/stumbler/5STARLIMO/" target="_blank" title="stumbleupon">stumbleupon</a></div>
-<div class="socials-item rss"><a href="../feed/index.html" target="_blank" title="rss">rss</a></div>
-</div>
-</div>
-<div class="top-area-contacts">
-<div class="sc-contacts">
-<div class="sc-contacts-item sc-contacts-address">14530 Colonial Pkwy, Plainfield IL 60544</div>
-<div class="sc-contacts-item sc-contacts-phone">708-272-7188</div>
-<div class="sc-contacts-item sc-contacts-email"><a href="mailto:book@5starlimobusrentals.com">book@5starlimobusrentals.com</a></div>
-</div>
-</div>
-<div class="top-area-search">
-<form role="search" method="get" id="top-area-searchform" class="searchform" action="http://5starlimobusrentals.com/">
-<div><input type="text" value="" name="s" id="top-area-s"> <button type="submit" id="top-area-searchsubmit" value="Search"></button></div>
-</form>
-</div>
-</div>
-</div>
-</div>
-<header id="site-header" class="site-header" role="banner">
-<div class="container">
-<div class="header-main logo-position-left">
-<div class="site-title">
-<div class="site-logo"><a href="../index.html" rel="home"><span class="logo logo-1x"><img src="http://5starlimobusrentals.com/wp-content/uploads/2018/05/5-star-limo225-big-logo.png" class="default" alt=""><img src="http://5starlimobusrentals.com/wp-content/uploads/2018/05/5-star-limo225-big-logo.png" class="small" alt=""></span></a></div>
-</div>
-<nav id="primary-navigation" class="site-navigation primary-navigation responsive" role="navigation"><button class="menu-toggle dl-trigger">Primary Menu</button>
-<ul id="primary-menu" class="nav-menu dl-menu styled">
-<li id="menu-item-13658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13658 megamenu-first-element"><a href="../our-services/index.html">About Us</a></li>
-<li id="menu-item-12039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-parent menu-item-12039 megamenu-first-element"><a target="_blank" href="../index.html">Home</a>
-<ul class="sub-menu  dl-submenu styled">
-<li class="dl-back"><a href="#/index.html">Back</a></li>
-<li id="menu-item-13654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13654 megamenu-first-element"><a href="https://www.5starbusrentals.com/request-a-quote-2.html">Request a Quote</a></li>
-<li id="menu-item-13032" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13032 megamenu-first-element mobile-clickable"><a href="../contact/index.html">Contact</a></li>
-<li id="menu-item-12210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-12210 megamenu-first-element mobile-clickable"><a title="Party Bus Limo Rental Services" rel="Self" href="../our-services-2/index.html">Our Services</a>
-<ul class="sub-menu  dl-submenu styled">
-<li class="dl-parent"><a href="../our-services-2/index.html">Show this page</a></li>
-<li class="dl-back"><a href="#/index.html">Back</a></li>
-<li id="menu-item-7459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7459 megamenu-first-element"><a href="../notre-dame-premium-tailgating/premium-tailgating/index.html">Notre Dame Tailgate</a></li>
-<li id="menu-item-12211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12211 megamenu-first-element"><a href="../party-bus-rentals-weddings-proms-concerts/index.html">Girls Night</a></li>
-<li id="menu-item-12123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12123 megamenu-first-element"><a href="../partybusrentalchicagosuburbs/night-on-the-town/index.html">Night On The Town</a></li>
-<li id="menu-item-12246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12246 megamenu-first-element"><a href="../our-services-wedding/index.html">Our Services Wedding</a></li>
-<li id="menu-item-12984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12984 megamenu-first-element"><a href="../chicago-to-michigan-wine-tours/index.html">Chicago to Michigan Wine Tours</a></li>
-<li id="menu-item-7776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7776 megamenu-first-element"><a href="../holiday-light-tour/index.html">Holiday light tours</a></li>
-</ul>
-</li>
-<li id="menu-item-13039" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-parent menu-item-13039 megamenu-first-element mobile-clickable"><a title="Blog" href="../partybus/index.html">Blog</a>
-<ul class="sub-menu  dl-submenu styled">
-<li class="dl-parent"><a href="../partybus/index.html">Show this page</a></li>
-<li class="dl-back"><a href="#/index.html">Back</a></li>
-<li id="menu-item-11992" class="menu-item menu-item-type-taxonomy menu-item-object-scalia_news_sets menu-item-11992 megamenu-first-element"><a href="../news_sets/party-bus-rental-limo-rental-news/index.html">News</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li id="menu-item-12101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-12101 megamenu-first-element mobile-clickable"><a title="Cheap Party Bus Rental" href="../party-bus-rentals-weddings-proms-concerts/index.html">Party Bus Rental</a>
-<ul class="sub-menu  dl-submenu styled">
-<li class="dl-parent"><a href="../party-bus-rentals-weddings-proms-concerts/index.html">Show this page</a></li>
-<li class="dl-back"><a href="#/index.html">Back</a></li>
-<li id="menu-item-13319" class="menu-item menu-item-type-post_type menu-item-object-scalia_pf_item menu-item-13319 megamenu-first-element mobile-clickable"><a href="../portfolios/14-passenger-party-bus-rental-fleet/index.html">14 Passenger Party Bus Rental Fleet</a></li>
-<li id="menu-item-11815" class="menu-item menu-item-type-post_type menu-item-object-scalia_pf_item menu-item-11815 megamenu-first-element mobile-clickable"><a title="24 Passenger Party Bus Portfolio" rel="me" href="../portfolios/24-passenger-party-bus/index.html">24 Passenger Party Bus</a></li>
-<li id="menu-item-13559" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13559 megamenu-first-element"><a href="../32-passenger-party-bus.html">32 Passenger Party Bus</a></li>
-</ul>
-</li>
-<li id="menu-item-12179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-12179 megamenu-first-element"><a href="../our-services-2/index.html">Rent a Bus</a>
-<ul class="sub-menu  dl-submenu styled">
-<li class="dl-back"><a href="#/index.html">Back</a></li>
-<li id="menu-item-7178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7178 megamenu-first-element"><a href="../prom/kids-party-bus-prom-party-bus/index.html">Kids Party Bus prom party bus</a></li>
-<li id="menu-item-13564" class="menu-item menu-item-type-post_type menu-item-object-scalia_pf_item menu-item-13564 megamenu-first-element"><a href="../portfolios/concerts/index.html">Concerts</a></li>
-<li id="menu-item-13561" class="menu-item menu-item-type-post_type menu-item-object-scalia_pf_item menu-item-13561 megamenu-first-element"><a href="../portfolios/cheap-party-bus-rental/index.html">Cheap party Bus Rental</a></li>
-<li id="menu-item-13565" class="menu-item menu-item-type-post_type menu-item-object-scalia_pf_item menu-item-13565 megamenu-first-element"><a href="../portfolios/limo-bus-rental-pro/index.html">Limo Bus Pro</a></li>
-<li id="menu-item-13560" class="menu-item menu-item-type-post_type menu-item-object-scalia_pf_item menu-item-13560 megamenu-first-element"><a href="../portfolios/sign-contract-make-deposit/index.html">How to sign your contract and make a deposit.</a></li>
-<li id="menu-item-13562" class="menu-item menu-item-type-post_type menu-item-object-scalia_pf_item menu-item-13562 megamenu-first-element"><a href="../portfolios/chicago-michigan-wine-tours/index.html">CHICAGO MICHIGAN WINE TOURS</a></li>
-<li id="menu-item-12099" class="menu-item menu-item-type-post_type menu-item-object-scalia_pf_item menu-item-12099 megamenu-first-element"><a title="Chicago Trolley Rental" href="../portfolios/wedding-trolleys/index.html">Trolleys</a></li>
-<li id="menu-item-13563" class="menu-item menu-item-type-post_type menu-item-object-scalia_pf_item menu-item-13563 megamenu-first-element"><a href="../portfolios/wedding-trolleys/index.html">Wedding Trolleys</a></li>
-</ul>
-</li>
-<li id="menu-item-11806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-11806 megamenu-first-element"><a href="../pages/services-faq-2/privacy-policy/index.html">Legal</a>
-<ul class="sub-menu  dl-submenu styled">
-<li class="dl-back"><a href="#/index.html">Back</a></li>
-<li id="menu-item-7814" class="_blank menu-item menu-item-type-custom menu-item-object-custom menu-item-7814 megamenu-first-element"><a target="_blank" rel="nofollow" href="https://chicagobusrentals.net">Web Store</a></li>
-<li id="menu-item-11807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11807 megamenu-first-element"><a title="legal" rel="legal" href="../pages/services-faq-2/privacy-policy/index.html">privacy-policy</a></li>
-</ul>
-</li>
-<li id="menu-item-12223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12223 megamenu-first-element mobile-clickable"><a href="../chicago-trolley-rentals/index.html">Chicago Trolley Rentals</a></li>
-<li id="menu-item-13413" class="menu-item menu-item-type-taxonomy menu-item-object-post_format menu-item-13413 megamenu-first-element"><a href="../type/gallery/index.html">Gallery</a></li>
-<li id="menu-item-13414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13414 megamenu-enable megamenu-first-element mobile-clickable"><a target="_blank" href="https://chicagobusrentals.net">On Line Store</a></li>
-</ul>
-</nav>
-</div>
-</div>
-</header>
-<div id="main" class="site-main">
-<div id="main-content" class="main-content">
-<div id="page-title" class="page-title-block page-title-style-1 " style="">
-<div class="container">
-<div class="page-title-title">
-<h1 style="">Limo Service Chicago Party Bus Rental</h1>
-</div>
-</div>
-</div>
-<div class="block-content">
-<div class="container">
-<div class="panel row">
-<div class="panel-center col-xs-12">
-<article id="post-1458" class="post-1458 page type-page status-publish has-post-thumbnail hentry">
-<div class="entry-content post-content">
-<div class="vc_row wpb_row vc_row-fluid vc_column-gap-1">
-<div class="wpb_column vc_column_container vc_col-sm-7 vc_col-lg-offset-0 vc_col-has-fill">
-<div class="vc_column-inner vc_custom_1473714922159">
-<div class="wpb_wrapper">
-<div class="wpb_single_image wpb_content_element vc_align_left">
-<figure class="wpb_wrapper vc_figure">
-<div class="vc_single_image-wrapper   vc_box_border_grey"></div>
-</figure>
-</div>
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-<h1>Limo Service Chicago Party Bus Rental</h1>
-<h2 id="contact-info" class="clearfix">&nbsp;</h2>
-<p><a href="https://www.theknot.com/marketplace/limosalive-%7C-chicagoland-bus-rentals-wedding-experts-alsip-il-889225" target="_blank" rel="noopener noreferrer"><span id="more-1458"></span></a></p>
-</div>
-</div>
-<h4 style="color: #1f94c6;text-align: left;font-family:Philosopher;font-weight:400;font-style:normal" class="vc_custom_heading"><a href="http://limosalive.com/request-a-quote/" rel="nofollow">Trending with weddings this season. Is this Limos Alive Platinum Party Bus</a></h4>
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-<p><strong>Book any 4-hour wedding transportation service</strong> for your guests or wedding party and <strong>enjoy 50% off and free upgrade to Luxury 2017 Executive&nbsp;Limo.</strong></p>
-<p><strong>&nbsp;Airport service for your honeymoon. &nbsp;Apply when <a href="../contact/index.html">booking.</a></strong></p>
-<p>Chicago Party Bus Rental Wedding limousine service</p>
-<p><em>*Coupon valid on local sedan service to local residence, hotel or airport with purchase of 4-hour wedding day transportation services.&nbsp;</em></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="wpb_column vc_column_container vc_col-sm-5 vc_col-lg-offset-0">
-<div class="vc_column-inner ">
-<div class="wpb_wrapper">
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper"></div>
-</div>
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-<h3>Limo Service Chicago Party Bus Rental. Log in Now and update your account info..</h3>
-<p><a href="../party-bus-rental-info-page/32-passenger-party-bus/index.html">Party Bus rental with bathrooms!!</a></p>
-<p>&nbsp;</p>
-</div>
-</div>
-<div class="vc_btn3-container vc_btn3-inline vc_custom_1456937615413"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-black" href="http://limosalive.com/party-bus-rental-info-page" title="More of Limos Alive Bus Fleet">See more Buses Limos and Party Bus Rentals</a></div>
-</div>
-</div>
-</div>
-</div>
-<div class="vc_row wpb_row vc_row-fluid">
-<div class="wpb_column vc_column_container vc_col-sm-12">
-<div class="vc_column-inner ">
-<div class="wpb_wrapper">
-<div class="wpb_raw_code wpb_content_element wpb_raw_html">
-<div class="wpb_wrapper">
-<div class="post-1955 page type-page status-publish hentry">
-<div class="post-title">
-<div id="headerTitle">
-<h4>Chicago Party Bus Rental Wedding limousine service Outstanding Limousine &amp; Party Bus Service at Competitive Rates!<br>
-Call Us Today for Quotes and Availability - 708-699-0047!</h4>
-</div>
-<p><a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!"></a></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="vc_row wpb_row vc_row-fluid vc_custom_1455578574070 vc_row-has-fill vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
-<div class="wpb_column vc_column_container vc_col-sm-4">
-<div class="vc_column-inner ">
-<div class="wpb_wrapper">
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-<p><img class="aligncenter wp-image-2686 size-large" title="Limos Alive 40 passenger Party Bus" src="http://limosalive.com/wp-content/uploads/2015/05/Large-Black-Limo-Bus-8-fixed-1024x1024.jpg" alt="Chicago party bus rental Tiffany Party Bus" width="500" height="500"></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="wpb_column vc_column_container vc_col-sm-4">
-<div class="vc_column-inner ">
-<div class="wpb_wrapper">
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-<p><img class="alignnone size-full wp-image-7052 aligncenter" src="http://5starlimobusrentals.com/wp-content/uploads/2016/04/michigan-chicago-wine-tour-5starlimobusrentals-bus32.jpg" alt="32 passenger Party Bus with bathroom" width="600" height="450" srcset="http://5starlimobusrentals.com/wp-content/uploads/2016/04/michigan-chicago-wine-tour-5starlimobusrentals-bus32-300x225@2x.jpg 600w," sizes="(max-width: 600px) 100vw, 600px"></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="wpb_column vc_column_container vc_col-sm-4">
-<div class="vc_column-inner ">
-<div class="wpb_wrapper">
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-<p><img class="alignnone size-full wp-image-6477 aligncenter" src="http://5starlimobusrentals.com/wp-content/uploads/2017/10/5tar-limos-party-trolley-rental.jpg" alt="Party Bus Rental Chicago Trolley Rental Notre Dame Tailgate Packages Wedding Transportation Michigan Wine Tours" width="1080" height="709" srcset="http://5starlimobusrentals.com/wp-content/uploads/2017/10/5tar-limos-party-trolley-rental.jpg 1080w," sizes="(max-width: 1080px) 100vw, 1080px"></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="vc_row wpb_row vc_row-fluid">
-<div class="wpb_column vc_column_container vc_col-sm-12">
-<div class="vc_column-inner ">
-<div class="wpb_wrapper">
-<h3 style="font-size: 20pt;color: #1e73be;text-align: center;font-family:Josefin Sans;font-weight:400;font-style:normal" class="vc_custom_heading">Limo Rental Chicago Party Bus Rental 5 star Limo bus Party Trolley Rentals</h3>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div id="comments" class="comments-area"></div>
-</div>
-</div>
-</article>
-</div>
-</div>
-</div>
-</div>
-</div>
-<script type="text/javascript">
-var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-106846489-1']);
-_gaq.push(['_setCustomVar', 1, 'CONTACT', '%context%/contact', 3]);
-_gaq.push(['_trackPageview']);
+Untitled Note
+Midwest Coach Limo and Bus Services takes the security and privacy of your personal information extremely seriously. We will not trade, sell, or rent your personally identifiable information. For an entire review of https://www.mwc.limo https://www.mwc.limo privacy practices please read below.
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script></div>
-<footer id="footer-nav" class="site-footer">
-<div class="container">
-<div class="row">
-<div class="col-md-8 col-xs-12">
-<nav id="footer-navigation" class="site-navigation footer-navigation sc-list sc-list-color-7" role="navigation">
-<ul id="footer-menu" class="nav-menu styled clearfix">
-<li id="menu-item-13448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-13448"><a title="Home" href="../index.html">Home</a></li>
-<li id="menu-item-13657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13657"><a href="../our-services/index.html">About Us</a></li>
-<li id="menu-item-13490" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13490"><a title="Book / Shop" target="_blank" href="https://chicagobusrentals.net/shop?olsPage=products">Book / Shop</a></li>
-<li id="menu-item-13655" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13655"><a href="https://www.5starbusrentals.com/request-a-quote-2.html">Request A Quote</a></li>
-<li id="menu-item-13259" class="menu-item menu-item-type-post_type menu-item-object-scalia_pf_item menu-item-13259"><a href="../portfolios/sign-contract-make-deposit/index.html">How to sign your contract and make a deposit.</a></li>
-<li id="menu-item-13450" class="menu-item menu-item-type-post_type menu-item-object-scalia_pf_item menu-item-13450"><a href="../portfolios/notre-dame-tailgate-packages/index.html">Notre Dame Tailgate Packages</a></li>
-<li id="menu-item-13447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13447"><a title="Party Bus Quote" target="_blank" href="../request-5-star-limo-party-bus-quote/index.html">Request a 5 Star Limo Party Bus Quote</a></li>
-<li id="menu-item-13261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13261"><a href="../contact/index.html">Contact</a></li>
-</ul>
-</nav>
-</div>
-<div class="col-md-4 col-xs-12">
-<div id="footer-socials" class="socials">
-<div class="footer-socials-item twitter"><a href="https://twitter.com/5starlimo4u" target="_blank" title="twitter">twitter</a></div>
-<div class="footer-socials-item facebook"><a href="https://www.facebook.com/5tarlimobusrentals/" target="_blank" title="facebook">facebook</a></div>
-<div class="footer-socials-item googleplus"><a href="https://plus.google.com/+Limosalivecom" target="_blank" title="googleplus">googleplus</a></div>
-<div class="footer-socials-item stumbleupon"><a href="https://www.stumbleupon.com/stumbler/5STARLIMO/" target="_blank" title="stumbleupon">stumbleupon</a></div>
-<div class="footer-socials-item rss"><a href="../feed/index.html" target="_blank" title="rss">rss</a></div>
-</div>
-</div>
-</div>
-</div>
-</footer>
-<footer id="colophon" class="site-footer" role="contentinfo">
-<div class="container">
-<div class="row inline-row footer-widget-area" role="complementary">
-<div id="contacts-21" class="widget inline-column col-sm-6 col-xs-12 count-2 widget_contacts">
-<h3 class="widget-title">5 Star Limo</h3>
-<div class="sc-contacts">
-<div class="sc-contacts-item sc-contacts-address">14530 Colonial Pkwy, Plainfield IL 60544</div>
-<div class="sc-contacts-item sc-contacts-phone">Phone: 708-272-7188</div>
-<div class="sc-contacts-item sc-contacts-email">Email: <a href="mailto:book@5starlimobusrentals.com">book@5starlimobusrentals.com</a></div>
-<div class="sc-contacts-item sc-contacts-website">Website: <a href="../index.html">Http://5starlimobusrentals.com</a></div>
-</div>
-</div>
-<div id="custom_popular_posts-4" class="widget inline-column col-sm-6 col-xs-12 count-2 Custom_Popular_Posts">
-<h3 class="widget-title">Party Bus Rental</h3>
-<ul class="posts blog styled">
-<li class="clearfix sc-pp-posts">
-<div class="sc-pp-posts-image"><a href="../5-star-wedding-reviews-knot.html"></a></div>
-<div class="sc-pp-posts-text">
-<div class="sc-pp-posts-item"><a href="../5-star-wedding-reviews-knot.html">5 star wedding reviews on The Knot</a></div>
-<div class="sc-pp-posts-date">November 6, 2017</div>
-</div>
-</li>
-<li class="clearfix sc-pp-posts">
-<div class="sc-pp-posts-image"><a href="../check-list-wedding-planner-groom.html"><img src="http://5starlimobusrentals.com/wp-content/uploads/layerslider/Default-Splash-Slider/Slide3-11.png" alt="The Check List wedding planner for the Groom"></a></div>
-<div class="sc-pp-posts-text">
-<div class="sc-pp-posts-item"><a href="../check-list-wedding-planner-groom.html">The Check List wedding planner for the Groom</a></div>
-<div class="sc-pp-posts-date">November 16, 2017</div>
-</div>
-</li>
-<li class="clearfix sc-pp-posts">
-<div class="sc-pp-posts-image"><a href="../sedan-airport-rates.html"></a></div>
-<div class="sc-pp-posts-text">
-<div class="sc-pp-posts-item"><a href="../sedan-airport-rates.html">sedan airport rates</a></div>
-<div class="sc-pp-posts-date">November 11, 2017</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-md-4 col-xs-12">
-<div class="footer-site-info">Copyright 2017 © All Rights Reserved 5 Star Limo Bus LLC. &amp; Chicago Bus Rentals<br>
-<br>
-<br></div>
-</div>
-</div>
-</div>
+Privacy Policy for https://www.mwc.limo
+
+We are strongly devoted to defending the privacy of your personal information. The policies underneath are relevant to the http://www.chicagobusrentals.net/ website (“Website”) created and sustained by 5 star Limo Party Bus Rental s(collectively “5 star Limo Party Bus Rentals” or “we”, “us”, or “our”). We have established this security and privacy policy (“Privacy Policy”) to inform you of the type of personal information we may collect throughout your visit to the Website, why we collect your information, what we use your personal information for, when we may provide your personal information, and how you can control your personal information.
+Please understand that the practices expressed in this Privacy Policy are only applicable to information collected from this Web Site and, where relevant, from this Web Site’s Customer Service Department in association with this Web Site, and do not unconsciously reflect our practices with approval to information collected from other Web sites that we manage or through other off-line means.
+By visiting our Website, you are complying with the practices expressed in our Privacy Policy. If you do not concur to the terms of this Privacy Policy, please do not use the Website. We may, from time to time, revise this privacy policy, and the date of last revision will be available at the bottom of this page. By using the Services, you are acknowledging and accepting this Privacy Policy. Your continued use of the Services after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.
+If you have any inquiries about this Privacy Policy or do not see your concerns addressed here, you ought to contact us by email at book@5starlimobusrentals.com
+What Information About Me Is Collected and Stored?
+
+5 star Limo Party Bus Rentals adheres to the uppermost standards of ethical practices in all of our processes and is devoted to protecting the privacy of all users of our Website. Our privacy policy is straightforward: Except as revealed below, we don’t sell, barter, deliver, or rent your personal information to any organization or individual external of 5 star Limo Party Bus Rentals. One of the essential values we’ve tried to follow in the creation of this Website is that we inquire for no more than the necessary information required to provide the service(s) you’ve asked for. As a result, what information we collect and store depends more or less completely on how you decide to make use of our Website and our services.
+
+Personal Information
+
+We accumulate and store information that you enter into this Web Site or that you supply through our Customer Service Department. For instance, when you create an account or place an order, we accumulate and store some or all of the subsequent information that you supply: name, billing address, shipping address, email address, telephone number, and credit card number and expiration date. This information is used to make available the products and services that you have ordered or requested, to process and ship orders, to mail order and shipping confirmations and to supply customer service. Registration can also be mandatory and Personal Information could also be gathered in certain segments of the Website in which you purposely and intentionally supply such information, e.g. community postings (i.e., chat or bulletin boards), propositions, or customer service requirements. Parts of this information also could be used to get in touch with you about sales, new products, special offers, and new site features, unless you have opted to not obtain promotional interactions in association with this Web Site.
+
+Anonymous Information
+
+During your use of the Website, we may possibly collect certain information that does not recognize you independently (“Anonymous Information”). Usually, this information is gathered from “traffic data”. We accumulate and store certain other information repeatedly whenever you interact with this Web Site. For instance, we collect your IP address, browser information and reference site domain name each time you are on this Web Site. We also gather information as regards customer traffic patterns and site usage. This information is used to examine and advance this Website and to give our clientele a gratifying online experience.
+
+Use of Cookies and Spyware
+
+We in no way apply or install spyware on your computer, nor do we utilize spyware to recover information from your computer.
+In addition, like several Websites, we apply “cookies”, which are records stored on your computer’s hard drive by your browser. Cookies allow us to recognize account owners and to optimize their shopping experience. Cookies also permit us to hold assortments in a shopping cart when a customer departs this Web Site without inspection. The majority of browsers recognizes cookies by design, but allows you to stop them. We advise that you keep cookies “turned on” so that we are able to provide you a user friendly online experience on this Website. You can occasionally get Cookies from companies marketing on our behalf. We do not manage these Cookies, and these Cookies are not subject to our Cookie policy.
+We also might gather and accumulate information about you that we obtain from others, to allow us to revise and provide accurate information enclosed in our database and to give product counsel and special offers that we believe will be of importance to you, if you have decided to accept e-mail from us, and provide you reminders about shopping opportunities.
+
+Newsletters
+
+We gather e-mail addresses and zip codes of all consumers who subscribe to our newsletter. Not including to our third party representatives (as explained below), this information is not publicized with any third parties for any reasons. Any person who does not want to obtain this newsletter can, at any time, follow the “Unsubscribe” directions contained in every newsletter.
+
+Is Information Collected From Children?
+
+We do not sell or ship anything ordered from this Web Site directly to anyone who we know to be under the age of 13, nor do we collect any personal information from a person who we identify to be under 13 years old. If you are under the age of 13, you ought to utilize this Web Site only with the participation of a parent or guardian and must not surrender any personal information to us. Our Website is not purposely targeted to children under the age of 13. Children under the age of 13 must not use our Website without attaining prior parental permission.
+
+How We Use Your Information?
+
+Apart from what is revealed in this Security and Privacy Policy, we do not utilize or release information about your personal usage on our Website or your Personal Information received online to anyone or any organization not associated with us. If we recommend authorizing any use of your Personal In formation, you will be given the chance to tell us not to permit such contact.
+
+Customer Service and Feedback
+
+We might use your Personal Information to complete orders, offer customer service, track your fulfillment with the Website’s rules and regulations, or for perspective and criticism reasons (to the degree that is elucidated when you supply the information). In the occasion we prepare to openly post any of your Personal Information on a Website (as, for instance, a letter), you will be given advanced notice of such redistribution and provided the opportunity of stopping such redistributions.
+
+Use of Anonymous Information
+
+We make use of Anonymous Information to assist us distinguish how user make use of sections of the Website and who our users are so we can enhance our Website and make certain that it is as pleasing as we can build it for the masses. We might also utilize or distribute Anonymous Information (or additional information, other than Personal Information) in some other method that we consider suitable or essential.
+
+Third-party Agents
+
+We intermittently have third party representatives, subsidiaries, affiliates and partners that execute functions for us, such as advertising, analytics, credit card processing, shipping or stocking information, only if customer service, fraud protection etc (for example, Cheetahmail aids with advertising and GSI Commerce aids with customer service). These units have right of entry to the Personal Information required to execute their occupations and are contractually obliged to preserve the privacy and protection of that Personal Information. They are constrained from using, selling, allocating or modifying this information in any way other than to supply the requested services to the Website.
+
+Transactional partners
+
+We might distribute non-personal information with our associates and others from time to time. Instances of such non-personal information comprise of the amount of customers who came to this Web Site during a definite time period or obtained a certain product from this Web Site. This information, in general, is shared in a collective form.
+
+Emergency Situations
+
+We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Website; (b) protect and defend the our rights or property, the Website or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Website or the public.
+
+What Happens When I Link To or From Another Web Site?
+
+This Web Site might include links to other Websites managed by Company, partners of Company or third parties. Please understand that the practices expressed in this Privacy Policy for http://www.chicagobusrentals.net/ and 5 star Limo Party Bus Rentals do not apply to information collected from these other Websites. These other online locations could also provide their own cookies to you and gather your data or request your personal information. Constantly be conscious of where you end up. We are not accountable for the actions and privacy policies of third parties and other websites. We want you to be sure you are aware of when you depart this Website and to proactively read the privacy policies of all Websites that you enter in to.
+
+What About Contests and Sweepstakes?
+
+When a contest or sweepstakes is promoted and is associated with this Web Site, it will come with set of regulations. The regulations for each contest/sweepstakes will state how the information provided by will be applied and released, and if it is unlike that expressed in this Privacy Policy. Personal Information will be gathered only if you willingly offer it to our sponsors or us.
+
+Public Areas, Chat Rooms and Newsgroups
+
+Keep in mind that any information you provide in communal areas, such as message boards or feedback segments, are converted into public information, and therefore this Privacy Policy does not relate to any information you choose to make public. Please be wary about what you provide and do not post any Personal Information that you intend to be confidential.
+
+Governing Law/Assignment
+
+The http://www.chicagobusrentals.net website is published in the United States and is planned for users from the United States. U.S. law shall administer in any and all disagreements, together with privacy or offense matters or otherwise.
+We might modify its possession or business association while supplying the website and services. As a consequence, please be sensitive to the case that we may possibly move your information to a different organization that is associated with us or with which we have made a joint venture with. Under such conditions Company would to the degree probable involve the acquiring party to pursue the practices explained in this Privacy Policy, as it could be revised from time to time.
+
+Changes to This Policy
+
+We are dedicated to sustaining its place as a high quality Website on the World Wide Web. As our Website keeps developing, we possibly will add new services and features to our Website. In the occasion that these added extras influence our Privacy Policy; this manuscript will be revised aptly. We will place those revisions significantly so that you will constantly identify what information we collect, how we could apply that information and whether we will reveal it. We do, nonetheless, suggest that you read this Privacy Policy every time you visit our website in case you overlook our notice of amendments to the Privacy Policy.
+
+Opt-Out and Correction Procedures
+
+You can at any time opt-out of getting potential e-mails and newsletters. We offer you with the option to opt-out of getting communications from us at the point where we ask for information concerning you. There are a variety of ways in which you can inform us whether or not you want to accept promotional communications from . When you initiate an account, or place an order, you will have an opportunity to make your selections in this regard. You also will have an opportunity to change these selections by following the “unsubscribe” instructions contained in the promotional emails we send you.
+
+Who do I talk to if I have more questions?
+
+Questions regarding this statement should be directed to the https://www.mwc.limo/ Customer Service; or send an email to info@mwc.limo
